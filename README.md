@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 My name is Lukas!
-- 🔍 Currently I am searching for a meaningful job in the fields of Robotics and/or Embedded Systems.
+- 🔍 Currently I am searching for a meaningful job in the fields of Robotics and/or Embedded Systems/IoT.
 - 🚀 Contact me if you want to collaborate on exciting projects. I have knowledge and great interest in Rust and Python, Microcontrollers, Mobile Robotics and Smart Grid Simulators and a general interest in Open Source.
 - 📫 How to reach me (🇩🇪/🇬🇧): \<my first name\> DOT \<my last name\> AT proton.me
 
