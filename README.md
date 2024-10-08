@@ -8,11 +8,11 @@ My name is Lukas!
 Current goals:
 - [ ] 🔭 Finish the Master's programme in Computer Science at the University of Tübingen.
 - [ ] 💻 Improve my programming setup for health and productivity.
-- [ ] 🏊‍♂️ Improve my crawling capabilites and do more sports in general.
+- [ ] 🏊‍♂️ Improve my freestyle swimming and do more sports in general.
 - [ ] 👨‍🍳 Meal prep with healthy foods.
 
 Achieved goals:
-- [x] 🏠 Move together with my girlfriend.
+- [x] 🏠 Move in together with my girlfriend.
 - [x] 💚 Switch to a plant based diet.
 - [x] 🍻 Socialize regularly with friends.
 - [x] 🎓 Get the Bachelor's degree at HTWG Konstanz in Applied Computer Science
